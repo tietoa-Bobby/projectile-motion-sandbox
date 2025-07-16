@@ -1,3 +1,6 @@
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![Licence: MIT](https://img.shields.io/badge/licence-MIT-yellow)](LICENSE)
+
 # Projectile Motion Sandbox
 
 A 2D physics simulator for projectile motion, featuring real-time visualisation using Pygame and flexible CLI input. Perfect for learning, teaching, or analysing projectile motion in physics.
